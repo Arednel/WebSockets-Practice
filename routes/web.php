@@ -21,3 +21,5 @@ Route::view('/Index', 'Index');
 //Info page about site
 Route::view('/Info', 'Info');
 Route::view('/info', 'Info');
+
+Route::view('/Test', 'Test');
