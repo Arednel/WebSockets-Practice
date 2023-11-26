@@ -39,8 +39,8 @@
     <br>
     <a href="/">← На главную</a>
 
-    <p>version 0.1.0 / 2023.11.25</p>
-    <p>Simple websockets</p>
+    <p>version 0.1.1 / 2023.11.26</p>
+    <p>Readme fix</p>
 </body>
 
 </html>

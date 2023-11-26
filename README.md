@@ -22,6 +22,10 @@ Simple WebSockets using
 
 3. Run
 
+    php artisan tinker
+
+    then
+
     event (new \App\Events\NewTrade('test'))
 
     to trigger NewTrade event with text 'test'
